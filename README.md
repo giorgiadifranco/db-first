@@ -14,8 +14,22 @@
 - mileage | INT | NOT NULL
 - color | VARCHAR(20) | NOT NULL
 - condition | TEXT | NOT NULL
-- fuel type | | NOT NULL
+- fuel type | VARCHAR(20) | NOT NULL
+
 - registration/immatricolazione | DATE
 - description |TEXT
-- doors
--
+- doors | INT | NULL
+
+const used_cars = [
+
+    {
+        id: 1,
+        make: '',
+        model: '',
+        year: '',
+        price: ,
+
+
+    }
+
+]
