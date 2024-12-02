@@ -15,6 +15,7 @@
 - color | VARCHAR(20) | NOT NULL
 - condition | TEXT | NOT NULL
 - fuel type | VARCHAR(20) | NOT NULL
+- horsepower(HP) | VARCHAR (20) | NOT NULL
 
 - registration/immatricolazione | DATE
 - description |TEXT
